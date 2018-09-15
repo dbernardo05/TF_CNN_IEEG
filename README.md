@@ -5,4 +5,5 @@ The spectra are frequency binned into F frequencies to create tensors with dimen
 
 
 prep_data*.ipynb is used to preprocess EEG data in HDF5 files with structure (channel x time sample)
+
 tf_dev*.ipynb is used to train the CNN

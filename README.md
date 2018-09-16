@@ -9,25 +9,8 @@ prep_data_v1_20180915.ipynb contains pre-processing functions for EEG data in HD
 tf_cnn_dev.py contains neural network architecture and training code
 
 ## System Requirements
+matplotlib==2.2.2, pandas==0.22.0, scipy==1.1.0, hickle==2.1.0, pyEDFlib==0.1.9, h5py==2.6.0, numpy==1.13.3, six==1.11.0, scikit_learn==0.19.2, tensorflow==1.10.1
 
-matplotlib==2.2.2
-
-pandas==0.22.0
-
-scipy==1.1.0
-
-hickle==2.1.0
-
-pyEDFlib==0.1.9
-
-h5py==2.6.0
-
-numpy==1.13.3
-
-six==1.11.0
-
-scikit_learn==0.19.2
-
-tensorflow==1.10.1
-
-
+Wavelet Analysis Code by Evgeniya Predybaylo: 
+"Python wavelet software provided by Evgeniya Predybaylo based on Torrence and Compo (1998) and is available at URL: 
+http://atoc.colorado.edu/research/wavelets/"

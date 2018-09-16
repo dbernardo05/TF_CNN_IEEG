@@ -14,3 +14,6 @@ matplotlib==2.2.2, pandas==0.22.0, scipy==1.1.0, hickle==2.1.0, pyEDFlib==0.1.9,
 Wavelet Analysis Code by Evgeniya Predybaylo: 
 "Python wavelet software provided by Evgeniya Predybaylo based on Torrence and Compo (1998) and is available at URL: 
 http://atoc.colorado.edu/research/wavelets/"
+
+Wavelet Z-normalization Routine is based on method by Roehri et al.  
+Roehri N, Lina J-M, Mosher JC, Bartolomei F, Benar C-G. Time-frequency strategies for increasing high-frequency oscillation detectability in intracerebral EEG. IEEE Trans Biomed Eng 2016;63:2595–606.

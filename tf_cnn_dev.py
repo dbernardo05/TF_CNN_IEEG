@@ -229,7 +229,7 @@ def time_tensorflow_run(session, target, info_string):
 
 
 
- def main(_):
+def main(_):
     run_benchmark()
 
 
